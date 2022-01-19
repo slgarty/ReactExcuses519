@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactExcuses.Web", "ReactExcuses.Web\ReactExcuses.Web.csproj", "{36669320-79C1-4927-8AB3-F74FB372AAA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactExcuses.Data", "ReactExcuses.Data\ReactExcuses.Data.csproj", "{04FA6A09-26A6-48F6-A37D-5B42593C6EF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36669320-79C1-4927-8AB3-F74FB372AAA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36669320-79C1-4927-8AB3-F74FB372AAA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36669320-79C1-4927-8AB3-F74FB372AAA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36669320-79C1-4927-8AB3-F74FB372AAA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04FA6A09-26A6-48F6-A37D-5B42593C6EF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04FA6A09-26A6-48F6-A37D-5B42593C6EF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04FA6A09-26A6-48F6-A37D-5B42593C6EF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04FA6A09-26A6-48F6-A37D-5B42593C6EF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBAF7A1D-6A24-4A8B-BA83-BB453F93BFE5}
+	EndGlobalSection
+EndGlobal
